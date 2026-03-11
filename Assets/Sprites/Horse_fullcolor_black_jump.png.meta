@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: d9f75b0429476a941ac00a3acc85bef3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7741665417338373887
+    second: Horse_fullcolor_black_jump_0
+  - first:
+      213: -2025905815522036346
+    second: Horse_fullcolor_black_jump_1
+  - first:
+      213: -699064085409344333
+    second: Horse_fullcolor_black_jump_2
+  - first:
+      213: 1357960575115033541
+    second: Horse_fullcolor_black_jump_3
+  - first:
+      213: 4067623654144296223
+    second: Horse_fullcolor_black_jump_4
+  - first:
+      213: -1686234561737434484
+    second: Horse_fullcolor_black_jump_5
+  - first:
+      213: -4080543281304583541
+    second: Horse_fullcolor_black_jump_6
+  - first:
+      213: -1820910920951021163
+    second: Horse_fullcolor_black_jump_7
+  - first:
+      213: -5697057343075903936
+    second: Horse_fullcolor_black_jump_8
+  - first:
+      213: -6158433483665639825
+    second: Horse_fullcolor_black_jump_9
+  - first:
+      213: -5924391644134033422
+    second: Horse_fullcolor_black_jump_10
+  - first:
+      213: -1316697925187139456
+    second: Horse_fullcolor_black_jump_11
+  - first:
+      213: -1433092866642530995
+    second: Horse_fullcolor_black_jump_12
+  - first:
+      213: -7788774913037718106
+    second: Horse_fullcolor_black_jump_13
+  - first:
+      213: -5322578477360508597
+    second: Horse_fullcolor_black_jump_14
+  - first:
+      213: 6162211756487368658
+    second: Horse_fullcolor_black_jump_15
+  - first:
+      213: 1407899114385802756
+    second: Horse_fullcolor_black_jump_16
+  - first:
+      213: 6985247327783886031
+    second: Horse_fullcolor_black_jump_17
+  - first:
+      213: 5656951176724449021
+    second: Horse_fullcolor_black_jump_18
+  - first:
+      213: 154693193486800613
+    second: Horse_fullcolor_black_jump_19
+  - first:
+      213: -6328361216062065327
+    second: Horse_fullcolor_black_jump_20
+  - first:
+      213: -3570800770473556245
+    second: Horse_fullcolor_black_jump_21
+  - first:
+      213: -1723201088999428569
+    second: Horse_fullcolor_black_jump_22
+  - first:
+      213: -2633679689841658367
+    second: Horse_fullcolor_black_jump_23
+  - first:
+      213: -7103347599039703886
+    second: Horse_fullcolor_black_jump_24
+  - first:
+      213: -4065617662412832965
+    second: Horse_fullcolor_black_jump_25
+  - first:
+      213: -2657311886035574212
+    second: Horse_fullcolor_black_jump_26
+  - first:
+      213: -591846178826948984
+    second: Horse_fullcolor_black_jump_27
+  - first:
+      213: -8502126889416677130
+    second: Horse_fullcolor_black_jump_28
+  - first:
+      213: -710652233064418032
+    second: Horse_fullcolor_black_jump_29
+  - first:
+      213: -7609982573581127293
+    second: Horse_fullcolor_black_jump_30
+  - first:
+      213: -1146175732549436485
+    second: Horse_fullcolor_black_jump_31
+  - first:
+      213: -142682590329734536
+    second: Horse_fullcolor_black_jump_32
+  - first:
+      213: 2132950710363068522
+    second: Horse_fullcolor_black_jump_33
+  - first:
+      213: -1719686453094498378
+    second: Horse_fullcolor_black_jump_34
+  - first:
+      213: -2025173389021796112
+    second: Horse_fullcolor_black_jump_35
+  - first:
+      213: -3990159618592171931
+    second: Horse_fullcolor_black_jump_36
+  - first:
+      213: -3413834221330606561
+    second: Horse_fullcolor_black_jump_37
+  - first:
+      213: -8473408739896152122
+    second: Horse_fullcolor_black_jump_38
+  - first:
+      213: 5428512940558940527
+    second: Horse_fullcolor_black_jump_39
+  - first:
+      213: -8520323222992935517
+    second: Horse_fullcolor_black_jump_40
+  - first:
+      213: -6498897824446638047
+    second: Horse_fullcolor_black_jump_41
+  - first:
+      213: -2226542030641980502
+    second: Horse_fullcolor_black_jump_42
+  - first:
+      213: 2190466769379400862
+    second: Horse_fullcolor_black_jump_43
+  - first:
+      213: 3104575213947136645
+    second: Horse_fullcolor_black_jump_44
+  - first:
+      213: 6164710981174158139
+    second: Horse_fullcolor_black_jump_45
+  - first:
+      213: 6592315456973307622
+    second: Horse_fullcolor_black_jump_46
+  - first:
+      213: -6383800994658881573
+    second: Horse_fullcolor_black_jump_47
+  - first:
+      213: 1711974924539430040
+    second: Horse_fullcolor_black_jump_48
+  - first:
+      213: 2795827037766488680
+    second: Horse_fullcolor_black_jump_49
+  - first:
+      213: 7078855745808340203
+    second: Horse_fullcolor_black_jump_50
+  - first:
+      213: -4677207197594784583
+    second: Horse_fullcolor_black_jump_51
+  - first:
+      213: 3003054083652985595
+    second: Horse_fullcolor_black_jump_52
+  - first:
+      213: -3357799070415065064
+    second: Horse_fullcolor_black_jump_53
+  - first:
+      213: -3346025007942141244
+    second: Horse_fullcolor_black_jump_54
+  - first:
+      213: 6947509662630939729
+    second: Horse_fullcolor_black_jump_55
+  - first:
+      213: 768227211756360470
+    second: Horse_fullcolor_black_jump_56
+  - first:
+      213: 5680684232283628619
+    second: Horse_fullcolor_black_jump_57
+  - first:
+      213: -7448448321073339799
+    second: Horse_fullcolor_black_jump_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe66c31e4757aa343a6e9624c135950d
+      internalID: 341908788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 246
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb03d592ae6a76849bac09de0f3f9b58
+      internalID: -1342039300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 246
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dea5899c6a4e04794c44d703cf027c
+      internalID: 1856633362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 246
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c02a2c4164a348afc22468c150481
+      internalID: 1896275427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 246
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714fb9a03042b5a4da03e29ede85a4c0
+      internalID: 572530828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 246
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d18ecef5c948043bd2f6efbb843ac7
+      internalID: 1746128758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 246
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e344f7c0c227b4f9cde912abdbd5fe
+      internalID: -1635599481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 252
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ddb60f7657204c8a2a0443769eb2d
+      internalID: 259468245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_8
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 263
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a795b61aa2b91124ab90ec09ea3723ae
+      internalID: 730948404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 258
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd5a6de6d288974da9ce0471eba1f41
+      internalID: 2118934385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 246
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98304bab29bd80c4bb57a9e19ac3051a
+      internalID: -178937559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 246
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7b1c0740f680449958cc756c4ee958
+      internalID: -1569137600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_12
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 246
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6604bbdf9f5969c4283f1b5366725db5
+      internalID: -1977570509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_13
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 246
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dee4dfced665a4da2c0652bd399787
+      internalID: -425154402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_14
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 246
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b3a26284c2a5347a9d367e99405930
+      internalID: 1749293172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_15
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 246
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fecdf7abefe2f04583d70d8e591d4e9
+      internalID: -442323775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 164
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a43de96452b62489a7f9cb4b8e8948
+      internalID: 2035669295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 164
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a044ed7402b5aae4b87167c97bdaba09
+      internalID: 1429933002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9148c09aec323cd42960d077ddfff0f9
+      internalID: -791110492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 164
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f5fbac8a189784e9d2eff5f8a71675
+      internalID: 68615441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 164
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd98876dfacacd54fa9f4521898585d2
+      internalID: -986182581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_21
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 164
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38d4dea6f5bfb4fa23da9020b2b2af
+      internalID: -884268525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 164
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730af65192fc8bf4d83d0e0dd4084279
+      internalID: 2023639750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 170
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46a1c8422081f74b9a9ad0387a6563c
+      internalID: 805593532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 181
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da42b65f90260dc4883c096116c31064
+      internalID: -1747689399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 176
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf73bccb30c5a4ab19190694764ce3
+      internalID: 1308190309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_26
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 164
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d661291e20f7fef4eae35e837ce0809b
+      internalID: -1503860118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_27
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 164
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07e5e1a5aa96c041a6cc49a3bc65480
+      internalID: 790862919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_28
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 164
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be538e8ea03cd8c46b38bd0078a66d3d
+      internalID: 1293580844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_29
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 164
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16b36cb8473f0468e4d44cdfc612da
+      internalID: 1531463310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_30
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 164
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78201213f1745394dac14f10bf2a1044
+      internalID: 1462769534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_31
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 164
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8630e672724254e8deb08b610e3ead
+      internalID: -306894996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 82
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba502a384e35784ca93488f8cce7447
+      internalID: 76615600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 82
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636d7645eb54fab478a639abeb90d329
+      internalID: -531099931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 85
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b039694d7ddeba44a89afaae2fe50a5a
+      internalID: -600711112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 84
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a783d2b8b6e924ba001f1d7c1b0d83
+      internalID: -1012229406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_36
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 95
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf689a4376962f4ca460ac988ff6894
+      internalID: 175955022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_37
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 96
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e78c6d4985bf34abb90ea5204a9c6e
+      internalID: 1537912504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_38
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 105
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20876f75b0d5ec64991f007a9931e248
+      internalID: -2109528211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_39
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 109
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7d77ea2913754eac6f63e573df3ee
+      internalID: -891638111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_40
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 100
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd808ef7ed734140a3b8d29338be52d
+      internalID: -743383748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_41
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 89
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51362902f2a3c564da42dcae5157ac77
+      internalID: 1039033626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_42
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 86
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357c08f8f38d98c4a866e4c6994b32cd
+      internalID: 1780964963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_43
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 84
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79674cbda1a920f4d9f6667beb2ca188
+      internalID: 2110194782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_44
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 84
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03ee81d8ba1d004a816155c9bb7a0e0
+      internalID: 1203289983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f113cbc73bef14c8b245110af81d2a
+      internalID: 978080772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21a1a0f982f944b984914324f23c21
+      internalID: -567952362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_47
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70afde93717d942a6c57593e65ff9e
+      internalID: -552527212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295f6debe225f14cb9a7fe078171b78
+      internalID: 1876227698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aa40b46b0f37a41bd022e26d98d8f7
+      internalID: -544071572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_50
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932956746d5d16479818b59adfea5a4
+      internalID: -483258159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 7
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc2767bd97d4344bee805865278bff
+      internalID: 789450584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_52
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 13
+        width: 18
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3397ccdf40094890d2591112d7037
+      internalID: -128560965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_53
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 22
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5902398035f8749bd316dc36c9bb4d
+      internalID: 1503815666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_54
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 17
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5a49f24c84ce45ae5c0526ec0399e
+      internalID: 1095252189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_55
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 8
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481a26f2d9d08649a2993e4b12a6759
+      internalID: -168253828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_56
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 4
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da4fd8f5e2219a4cb2266a2a29f9857
+      internalID: -1825144935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_57
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 3
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc247920c92d2b4fbd89ff9a0fe1cef
+      internalID: -1336748650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_jump_58
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42810ad83176ac64fae3cb1f25341862
+      internalID: -604583434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 823faaed043133844a07c33517e15329
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horse_fullcolor_black_jump_0: 341908788
+      Horse_fullcolor_black_jump_1: -1342039300
+      Horse_fullcolor_black_jump_10: -178937559
+      Horse_fullcolor_black_jump_11: -1569137600
+      Horse_fullcolor_black_jump_12: -1977570509
+      Horse_fullcolor_black_jump_13: -425154402
+      Horse_fullcolor_black_jump_14: 1749293172
+      Horse_fullcolor_black_jump_15: -442323775
+      Horse_fullcolor_black_jump_16: 2035669295
+      Horse_fullcolor_black_jump_17: 1429933002
+      Horse_fullcolor_black_jump_18: -791110492
+      Horse_fullcolor_black_jump_19: 68615441
+      Horse_fullcolor_black_jump_2: 1856633362
+      Horse_fullcolor_black_jump_20: -986182581
+      Horse_fullcolor_black_jump_21: -884268525
+      Horse_fullcolor_black_jump_22: 2023639750
+      Horse_fullcolor_black_jump_23: 805593532
+      Horse_fullcolor_black_jump_24: -1747689399
+      Horse_fullcolor_black_jump_25: 1308190309
+      Horse_fullcolor_black_jump_26: -1503860118
+      Horse_fullcolor_black_jump_27: 790862919
+      Horse_fullcolor_black_jump_28: 1293580844
+      Horse_fullcolor_black_jump_29: 1531463310
+      Horse_fullcolor_black_jump_3: 1896275427
+      Horse_fullcolor_black_jump_30: 1462769534
+      Horse_fullcolor_black_jump_31: -306894996
+      Horse_fullcolor_black_jump_32: 76615600
+      Horse_fullcolor_black_jump_33: -531099931
+      Horse_fullcolor_black_jump_34: -600711112
+      Horse_fullcolor_black_jump_35: -1012229406
+      Horse_fullcolor_black_jump_36: 175955022
+      Horse_fullcolor_black_jump_37: 1537912504
+      Horse_fullcolor_black_jump_38: -2109528211
+      Horse_fullcolor_black_jump_39: -891638111
+      Horse_fullcolor_black_jump_4: 572530828
+      Horse_fullcolor_black_jump_40: -743383748
+      Horse_fullcolor_black_jump_41: 1039033626
+      Horse_fullcolor_black_jump_42: 1780964963
+      Horse_fullcolor_black_jump_43: 2110194782
+      Horse_fullcolor_black_jump_44: 1203289983
+      Horse_fullcolor_black_jump_45: 978080772
+      Horse_fullcolor_black_jump_46: -567952362
+      Horse_fullcolor_black_jump_47: -552527212
+      Horse_fullcolor_black_jump_48: 1876227698
+      Horse_fullcolor_black_jump_49: -544071572
+      Horse_fullcolor_black_jump_5: 1746128758
+      Horse_fullcolor_black_jump_50: -483258159
+      Horse_fullcolor_black_jump_51: 789450584
+      Horse_fullcolor_black_jump_52: -128560965
+      Horse_fullcolor_black_jump_53: 1503815666
+      Horse_fullcolor_black_jump_54: 1095252189
+      Horse_fullcolor_black_jump_55: -168253828
+      Horse_fullcolor_black_jump_56: -1825144935
+      Horse_fullcolor_black_jump_57: -1336748650
+      Horse_fullcolor_black_jump_58: -604583434
+      Horse_fullcolor_black_jump_6: -1635599481
+      Horse_fullcolor_black_jump_7: 259468245
+      Horse_fullcolor_black_jump_8: 730948404
+      Horse_fullcolor_black_jump_9: 2118934385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 439e3e1729bd64b4582f265a9eb745bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3570579573038095840
+    second: Horse_fullcolor_black_0
+  - first:
+      213: -849152086038403584
+    second: Horse_fullcolor_black_1
+  - first:
+      213: 5032435612167201937
+    second: Horse_fullcolor_black_2
+  - first:
+      213: 3509958789714543484
+    second: Horse_fullcolor_black_3
+  - first:
+      213: 8541347089662567792
+    second: Horse_fullcolor_black_4
+  - first:
+      213: 220820473504584729
+    second: Horse_fullcolor_black_5
+  - first:
+      213: -2326178779369766295
+    second: Horse_fullcolor_black_6
+  - first:
+      213: 5136946460430601357
+    second: Horse_fullcolor_black_7
+  - first:
+      213: -9056285114987915743
+    second: Horse_fullcolor_black_8
+  - first:
+      213: 1287520653059177737
+    second: Horse_fullcolor_black_9
+  - first:
+      213: 1959725646350181983
+    second: Horse_fullcolor_black_10
+  - first:
+      213: 886770959089945403
+    second: Horse_fullcolor_black_11
+  - first:
+      213: -2708875121542679117
+    second: Horse_fullcolor_black_12
+  - first:
+      213: -8215204567076011037
+    second: Horse_fullcolor_black_13
+  - first:
+      213: -3690751338185783583
+    second: Horse_fullcolor_black_14
+  - first:
+      213: -1525281068483393320
+    second: Horse_fullcolor_black_15
+  - first:
+      213: 7362406584259203458
+    second: Horse_fullcolor_black_16
+  - first:
+      213: -955986039201859547
+    second: Horse_fullcolor_black_17
+  - first:
+      213: -3069808636215830975
+    second: Horse_fullcolor_black_18
+  - first:
+      213: -1719853096007121577
+    second: Horse_fullcolor_black_19
+  - first:
+      213: 4765909758329875331
+    second: Horse_fullcolor_black_20
+  - first:
+      213: 8646119390384168129
+    second: Horse_fullcolor_black_21
+  - first:
+      213: 3057302822085056663
+    second: Horse_fullcolor_black_22
+  - first:
+      213: -5727616478155329171
+    second: Horse_fullcolor_black_23
+  - first:
+      213: -2560052895986639509
+    second: Horse_fullcolor_black_24
+  - first:
+      213: 7332893392752341741
+    second: Horse_fullcolor_black_25
+  - first:
+      213: -1058188802788939141
+    second: Horse_fullcolor_black_26
+  - first:
+      213: 6452727822710678163
+    second: Horse_fullcolor_black_27
+  - first:
+      213: -2845502787150283859
+    second: Horse_fullcolor_black_28
+  - first:
+      213: -1274911167189979172
+    second: Horse_fullcolor_black_29
+  - first:
+      213: -7625695784661832648
+    second: Horse_fullcolor_black_30
+  - first:
+      213: -6452826284440520980
+    second: Horse_fullcolor_black_31
+  - first:
+      213: -3224672827832945299
+    second: Horse_fullcolor_black_32
+  - first:
+      213: 5367649047757386879
+    second: Horse_fullcolor_black_33
+  - first:
+      213: 2018712331902210222
+    second: Horse_fullcolor_black_34
+  - first:
+      213: 2325300906859220503
+    second: Horse_fullcolor_black_35
+  - first:
+      213: 1779584492131389610
+    second: Horse_fullcolor_black_36
+  - first:
+      213: 687145319575382844
+    second: Horse_fullcolor_black_37
+  - first:
+      213: -337831429879665427
+    second: Horse_fullcolor_black_38
+  - first:
+      213: -6321556751225152298
+    second: Horse_fullcolor_black_39
+  - first:
+      213: 3655161114838737775
+    second: Horse_fullcolor_black_40
+  - first:
+      213: 1524861676958818980
+    second: Horse_fullcolor_black_41
+  - first:
+      213: 1480501222011206976
+    second: Horse_fullcolor_black_42
+  - first:
+      213: 2285665536080572441
+    second: Horse_fullcolor_black_43
+  - first:
+      213: 7152236948902218609
+    second: Horse_fullcolor_black_44
+  - first:
+      213: -2887113795848411053
+    second: Horse_fullcolor_black_45
+  - first:
+      213: 1735772427676358410
+    second: Horse_fullcolor_black_46
+  - first:
+      213: -6780863570740695471
+    second: Horse_fullcolor_black_47
+  - first:
+      213: -4875797760827797282
+    second: Horse_fullcolor_black_48
+  - first:
+      213: 7318471980805124455
+    second: Horse_fullcolor_black_49
+  - first:
+      213: 8285637916727625713
+    second: Horse_fullcolor_black_50
+  - first:
+      213: -1555823849623510230
+    second: Horse_fullcolor_black_51
+  - first:
+      213: -570492201428963092
+    second: Horse_fullcolor_black_52
+  - first:
+      213: -5324096460596213848
+    second: Horse_fullcolor_black_53
+  - first:
+      213: 9169581146821157396
+    second: Horse_fullcolor_black_54
+  - first:
+      213: 3043608876051602536
+    second: Horse_fullcolor_black_55
+  - first:
+      213: -8713474411496816739
+    second: Horse_fullcolor_black_56
+  - first:
+      213: -4239841541484002484
+    second: Horse_fullcolor_black_57
+  - first:
+      213: -3189732205184128224
+    second: Horse_fullcolor_black_58
+  - first:
+      213: 2324452380631746758
+    second: Horse_fullcolor_black_59
+  - first:
+      213: 2678192480962234439
+    second: Horse_fullcolor_black_60
+  - first:
+      213: 5968972657841713759
+    second: Horse_fullcolor_black_61
+  - first:
+      213: 2106535764498439400
+    second: Horse_fullcolor_black_62
+  - first:
+      213: 7941318484947676035
+    second: Horse_fullcolor_black_63
+  - first:
+      213: 3550265011178717470
+    second: Horse_fullcolor_black_64
+  - first:
+      213: -5682232593580907702
+    second: Horse_fullcolor_black_65
+  - first:
+      213: -797919756727902675
+    second: Horse_fullcolor_black_66
+  - first:
+      213: -6748990699830787665
+    second: Horse_fullcolor_black_67
+  - first:
+      213: -5194822895584704828
+    second: Horse_fullcolor_black_68
+  - first:
+      213: -3942066878612288595
+    second: Horse_fullcolor_black_69
+  - first:
+      213: -3021177683575832603
+    second: Horse_fullcolor_black_70
+  - first:
+      213: 1578019352794185767
+    second: Horse_fullcolor_black_71
+  - first:
+      213: 6209423236324055635
+    second: Horse_fullcolor_black_72
+  - first:
+      213: 4244246247390189151
+    second: Horse_fullcolor_black_73
+  - first:
+      213: -4065488622328637507
+    second: Horse_fullcolor_black_74
+  - first:
+      213: -8398441208089965213
+    second: Horse_fullcolor_black_75
+  - first:
+      213: 6049046785243895357
+    second: Horse_fullcolor_black_76
+  - first:
+      213: 5917881903066362135
+    second: Horse_fullcolor_black_77
+  - first:
+      213: -5805361120972421141
+    second: Horse_fullcolor_black_78
+  - first:
+      213: -7298278769205235120
+    second: Horse_fullcolor_black_79
+  - first:
+      213: 274292909964774151
+    second: Horse_fullcolor_black_80
+  - first:
+      213: 6396122373397064081
+    second: Horse_fullcolor_black_81
+  - first:
+      213: -3702997789312236681
+    second: Horse_fullcolor_black_82
+  - first:
+      213: -5788136040152068740
+    second: Horse_fullcolor_black_83
+  - first:
+      213: 7554271406246842270
+    second: Horse_fullcolor_black_84
+  - first:
+      213: -6062512741796719431
+    second: Horse_fullcolor_black_85
+  - first:
+      213: 3049368919569717129
+    second: Horse_fullcolor_black_86
+  - first:
+      213: -6790105651019559110
+    second: Horse_fullcolor_black_87
+  - first:
+      213: 7704655143588937145
+    second: Horse_fullcolor_black_88
+  - first:
+      213: 7250803426572088788
+    second: Horse_fullcolor_black_89
+  - first:
+      213: -9205802222154013048
+    second: Horse_fullcolor_black_90
+  - first:
+      213: -5610208529337757892
+    second: Horse_fullcolor_black_91
+  - first:
+      213: 5821262422110988867
+    second: Horse_fullcolor_black_92
+  - first:
+      213: 8631140983200777053
+    second: Horse_fullcolor_black_93
+  - first:
+      213: -6157162063466149532
+    second: Horse_fullcolor_black_94
+  - first:
+      213: 2765363063486097133
+    second: Horse_fullcolor_black_95
+  - first:
+      213: -656226530097056851
+    second: Horse_fullcolor_black_96
+  - first:
+      213: -7622998741174545264
+    second: Horse_fullcolor_black_97
+  - first:
+      213: -5109692331038858753
+    second: Horse_fullcolor_black_98
+  - first:
+      213: -3034073058873480112
+    second: Horse_fullcolor_black_99
+  - first:
+      213: 3494080919279771563
+    second: Horse_fullcolor_black_100
+  - first:
+      213: 3641621882196866311
+    second: Horse_fullcolor_black_101
+  - first:
+      213: -9192091258119794958
+    second: Horse_fullcolor_black_102
+  - first:
+      213: -85719024329753196
+    second: Horse_fullcolor_black_103
+  - first:
+      213: -6672986360592358610
+    second: Horse_fullcolor_black_104
+  - first:
+      213: 959295853303835548
+    second: Horse_fullcolor_black_105
+  - first:
+      213: 3385953242128241263
+    second: Horse_fullcolor_black_106
+  - first:
+      213: -6578804652389321397
+    second: Horse_fullcolor_black_107
+  - first:
+      213: -7582093344251632177
+    second: Horse_fullcolor_black_108
+  - first:
+      213: -1477115371848594003
+    second: Horse_fullcolor_black_109
+  - first:
+      213: -6128568647677216215
+    second: Horse_fullcolor_black_110
+  - first:
+      213: 5800204352833347829
+    second: Horse_fullcolor_black_111
+  - first:
+      213: 4095676730790087544
+    second: Horse_fullcolor_black_112
+  - first:
+      213: -2518131727287622061
+    second: Horse_fullcolor_black_113
+  - first:
+      213: -2860038053951300166
+    second: Horse_fullcolor_black_114
+  - first:
+      213: 672923692987714924
+    second: Horse_fullcolor_black_115
+  - first:
+      213: -9153718538029735798
+    second: Horse_fullcolor_black_116
+  - first:
+      213: 6728221221144947638
+    second: Horse_fullcolor_black_117
+  - first:
+      213: -7754544464340751109
+    second: Horse_fullcolor_black_118
+  - first:
+      213: 8603109935878698850
+    second: Horse_fullcolor_black_119
+  - first:
+      213: 8966170369559710032
+    second: Horse_fullcolor_black_120
+  - first:
+      213: -5543865754873137572
+    second: Horse_fullcolor_black_121
+  - first:
+      213: -5907591139331827201
+    second: Horse_fullcolor_black_122
+  - first:
+      213: 3607869983959052501
+    second: Horse_fullcolor_black_123
+  - first:
+      213: -5535674523602703681
+    second: Horse_fullcolor_black_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1088
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262bfaa866a0d74ba4d708d4f696b35
+      internalID: 1812764704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1088
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c0470f44b44640a65db948a87d692
+      internalID: -919484498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1088
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c2042ebb6c4a24e98fb343fedc84ab
+      internalID: -599491333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1088
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dfa0c4cbdedc14ca9c6e768513aa14
+      internalID: 386177793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1088
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2289b99a47ae1c4e9b5783610322cc4
+      internalID: 874862052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1088
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd2b969c27cb34a8b5827919b854a3
+      internalID: 1536378090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1088
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246e916b3d17bb74780148d588c42897
+      internalID: 939939010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1088
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee9be9aa9434244935a6540bbd9271
+      internalID: 407991874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1088
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72154d78198d4f349882f2f6c4d213c5
+      internalID: -1552460381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1024
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a5ca36433931468452b141cae0636
+      internalID: -558196229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1024
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb373d95e3a73e4eacfc4d115e48eb2
+      internalID: -1294342778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1024
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39097d3d0478e49ac7037798bd4c73
+      internalID: 1488594887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1024
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b861bfe4e19e3b42b935ce530a7e715
+      internalID: -2070657916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1024
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ef0a05f70c06848b3c9ef7bc24ff45
+      internalID: -692725864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1024
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac80b7f6420a34cb092213b7c211d0
+      internalID: 138621213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1024
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775617198b160764d97e9cc82217edc2
+      internalID: -532355296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_16
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1024
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d493f5c27280244b9ca74614b37862b
+      internalID: 2134148332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 960
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f174c8afaf9d141ad57ffd1b4e5ef9
+      internalID: -343004509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 960
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a076e31699438cf439e310c82d2633e6
+      internalID: 895815694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 960
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f94d40daa585624d97a1da56530c645
+      internalID: 1288736204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 960
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2039ca566faa4a8412eb58ac03fa3
+      internalID: 1725565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 960
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ef544b31c9ad4ab64e999d3b0a8b3
+      internalID: 1505887870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 960
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7ae5b93afd8544b6bdbddc0c447f3
+      internalID: 820822343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 960
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdcb547bc29be479434dac43143a00
+      internalID: -629687583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 960
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c301905f85b0ed4094404d781ef19c0
+      internalID: -336319493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_25
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 960
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e83ba0a1da2ada498b8b8c85999a6b3
+      internalID: -1637017527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6267906d1141043a3fdaa715897e58
+      internalID: 118543278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c82124d6a3cb4e91a0580d51f9025
+      internalID: -1712327441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 896
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeea3b0e3b62a3468b4e754c835c4d4
+      internalID: 1692176928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 897
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79c76007dadeb45919b3f85d4ebb4a
+      internalID: -549959405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_30
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 899
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad6a444e96fc741884a7963740a246
+      internalID: 187580181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 896
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001d936218c8374caee54817ee8d4ec
+      internalID: -1349189602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 896
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef43694b307f54abc47c9360018723
+      internalID: -1835889941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_33
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 896
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0811640637966c4a95afb505e1b8be6
+      internalID: -1939323331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dbafff0f7cd534587ece0bb2a8b949
+      internalID: -634325210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 832
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f4e14863687649b0d8872fe5c56b5
+      internalID: -1820312785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 832
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ec7c42f915d043bd7ae26cb0a98ab
+      internalID: 1460618420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 836
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45bf068b44470c438bb86028c5de33e
+      internalID: 2119795264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 832
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d50e8b0bccdac4595b55e2c4018591
+      internalID: -1320091897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_39
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 832
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b375309ce37b64e804dabfcb37393f
+      internalID: -1646251452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 768
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27bc52de0589943a246bb02a2baf78
+      internalID: -1429860046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 768
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b5676167e9549479b8b665b3fa852d
+      internalID: -1361375808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_42
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 768
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e95ec17d8fc574d8385c2b34453659
+      internalID: -852112564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 768
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dbd738598f5224896a09fcd1d15c10
+      internalID: -120720355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_44
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 768
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4724281853c76d45b590c2f31cbbd45
+      internalID: -1193700165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_45
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 768
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff127a7a724bf0478de770a2279f222
+      internalID: -1832559280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 768
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ade01d2f8eb1847a2244b23847e10f
+      internalID: 1915571157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_47
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 768
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b802338c3834146bf0ca9f72fc5543
+      internalID: 2028948202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_48
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 768
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba77be58dcb8444bf3b3c2b5b0fe49
+      internalID: -1739191421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 704
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99b83bff3b7d654ebcfc85060ee4704
+      internalID: -262364298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 704
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0007bc3f067b684583d4b8a77162f9d
+      internalID: 1956639639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 704
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefda28ecf48ee4abdaa2a7f953b1ec
+      internalID: -1314061616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 704
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3bfac756d2e9a43a14d76ee355ba6e
+      internalID: 977812543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 704
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad78fe2efe10e5448abbf0b8ea4a984f
+      internalID: -1153872877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 704
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519085dd9cec7fe4287ee5d83475bc30
+      internalID: -1411050255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 704
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b023da4a8b70844bf4f88b7ac7db26
+      internalID: -895007255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_56
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 704
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de83acc7a03876543a7b5ff9b16de2e7
+      internalID: -529014097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 640
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ba631a962253498a38456791a1a56
+      internalID: -647853663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 640
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068834a4da7e4a4dbed179dabb2a4fe
+      internalID: 2061272100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 640
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c0a1a01d260940a82292273e42e59
+      internalID: 1709984992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 640
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb08c0ddf1bae49b222b0d6383276d
+      internalID: 2102197212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 640
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c384421dd0ca2a74cbe7e2a9147b0c72
+      internalID: 1739793596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_62
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 640
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e29fc944764a4e8e161325d0e6da2
+      internalID: 627345039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 640
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38deb1d1ddd5983439cb1bf9db7a4124
+      internalID: 184058000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_64
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 640
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a300a0e3a48fb439aa5ce28d77dba6
+      internalID: 1796882874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 640
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5beda773f33747a04c07005161846
+      internalID: -1406500817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 578
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662e7473126ea44db79c23a2addddc4
+      internalID: 340093324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 576
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4521d2c5eefb64442926b3a1a2790dfc
+      internalID: -840801958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99832b811cee2e34ba37f3659c17a220
+      internalID: -101193254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_69
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 577
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b12cb6623694842a2116fa88cc12f0
+      internalID: -292317444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_70
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 579
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437483751dca8341a7c134ae991be5f
+      internalID: 688082370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 576
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20f44beb26584848977445071bc2846
+      internalID: -1321171737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_72
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 576
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3296fe8fee8b05241866902284d273e9
+      internalID: 203950540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_73
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 576
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb485023715c414c9de33a9d024da18
+      internalID: -1777108741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636fd0ed1182fa740b03ca2c24769b8d
+      internalID: -177070987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_75
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 512
+        width: 71
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f2e7720aa92345af38cc4fa3aaf30
+      internalID: 578982874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_76
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 512
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc79d64f6385334fa2d3d70f57e66b1
+      internalID: 1767995734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_77
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 516
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ba5a202b4988941aa051a8fd46968f
+      internalID: 1125453897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_78
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 512
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c562f06bcf8d46b79bf9db8ffd86a
+      internalID: 465403380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_79
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 512
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0dcb8d0a0e3a14c89dacfc1ad06cf9
+      internalID: 200706904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_80
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 448
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c649ccbba8a5624d8af6f972a16ac4a
+      internalID: -735732514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_81
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 448
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7bdcef41478746b069d4928ced329
+      internalID: 1615057058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 386
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d255fa75f1bb40919ca34f1c9ccad
+      internalID: -177413931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 387
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1f5dc5c8f606048921cc2cbb727bdd
+      internalID: -1043978276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 18
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444bf3d3307ff34e94380e4e9e08e62
+      internalID: -1157702246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_85
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 385
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6458bb5b18f2a24cb6ab44bbdcb2f04
+      internalID: 102450688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_86
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 387
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654f381c165f6664da5b36af460c9371
+      internalID: -828209438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_87
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 388
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6630d64e2b5b344830c723a6d69a94
+      internalID: -1840035650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_88
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 387
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41dc002db87f443ba92f4844b1cb63
+      internalID: 1242160951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_89
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 384
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19294e38d4a3c2a4b8031aa10d244424
+      internalID: -52313009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_90
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 320
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca6eef285749f34eae2b50becebc837
+      internalID: -961673726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_91
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 323
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775a11c52cddf341823bad1ca0bf5cb
+      internalID: 1617402697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_92
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 320
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305564a07730c446ad5f7e789aecba1
+      internalID: 2118584183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_93
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 320
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8a0d706a5da5c4aaa9858f60137a0b
+      internalID: 1013651507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_94
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 323
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811f3e8133e80fd409d24198390c7ff0
+      internalID: 1569969664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_95
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 325
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064f1c39dc363514dadd1345b80972d9
+      internalID: 312135839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_96
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 324
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0957a1ad441d94fb9b02aed3a9dd34
+      internalID: 1601582162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_97
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 320
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c851aae57a04024a9b0c0506ee7e490
+      internalID: 1667642624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_98
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acdda26bd3b30b47aed927e0d05f616
+      internalID: -340857600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_99
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 256
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d898a11319f4794685aefa2d82c5a68
+      internalID: -956504139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_100
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 259
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ab222d106772c4b99049ed26f2d949
+      internalID: -1678211375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 263
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea79ba792e3a2b4589fe0588552c6b0
+      internalID: -641209159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_102
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 260
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12be691d8bb27bd42b4c043f81a42d19
+      internalID: -2096038177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_103
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 258
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68724650dd4ea7342bec16a104a25b7f
+      internalID: -995237695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_104
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 64
+        width: 18
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02cf6d824593d4d8898ecca7d7af8b
+      internalID: 1605936332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_105
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 129
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4425e4dfb6b0b434aaf07b5bcaef09e3
+      internalID: -1354389687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_106
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 129
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f6ba6136def174a965a61208121544
+      internalID: 369860603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_107
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 128
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb38780edac4a4a83efda013d04492
+      internalID: -1763135709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_108
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 129
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3496bb4071a64fa3974e33b0eca65
+      internalID: 1436031659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_109
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 131
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cc29b24e128bb4b8cf88fbd27fcfb6
+      internalID: -1555132766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_110
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 131
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798989d524857d24b8b7e522aa0e7e1c
+      internalID: 1802343532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_111
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 129
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7f2e0d47d7e8849a588af4fa275c14
+      internalID: 875463585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_112
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 66
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032036d99f3aab34aa8e8626acb3d62b
+      internalID: -220819687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_113
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 68
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1985552e929984fad0f303ddcf4e21
+      internalID: -12994419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_114
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 66
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea19e749587e6f40b18b9bb56fda96f
+      internalID: -186721638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_115
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 64
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f10e5dbfeff94dab2e4520a6d02ac
+      internalID: 900538614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_116
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 66
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb45ec71d52ad49b0010ab5d78926a
+      internalID: 40485403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 68
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bcbc2dc4b9038478aee443ebf79496
+      internalID: -1918411535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_118
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 66
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7534fc6bf26740ad97cca0b8b8bd7
+      internalID: -875235281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_119
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07830fcc6ed6e1c4ab480de3a40feab2
+      internalID: 2092754654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_120
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ee55248d73524d8ab440596469527
+      internalID: 1724595289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_121
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953663a290b1e34d8d7eace510cc5ae
+      internalID: 1026779043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_122
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 4
+        width: 18
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a1bd843d054444832a2bcd56e650b
+      internalID: 406593618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_123
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 4
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8861de495a577a46af2ced849e6909c
+      internalID: -920736401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_black_124
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2fad753ce73b4cae5177b3bea5897
+      internalID: -1284368905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 56e53b819320b1c4088d5cb26b11e29f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Horse_fullcolor_black_0: 1812764704
+      Horse_fullcolor_black_1: -919484498
+      Horse_fullcolor_black_10: -1294342778
+      Horse_fullcolor_black_100: -1678211375
+      Horse_fullcolor_black_101: -641209159
+      Horse_fullcolor_black_102: -2096038177
+      Horse_fullcolor_black_103: -995237695
+      Horse_fullcolor_black_104: 1605936332
+      Horse_fullcolor_black_105: -1354389687
+      Horse_fullcolor_black_106: 369860603
+      Horse_fullcolor_black_107: -1763135709
+      Horse_fullcolor_black_108: 1436031659
+      Horse_fullcolor_black_109: -1555132766
+      Horse_fullcolor_black_11: 1488594887
+      Horse_fullcolor_black_110: 1802343532
+      Horse_fullcolor_black_111: 875463585
+      Horse_fullcolor_black_112: -220819687
+      Horse_fullcolor_black_113: -12994419
+      Horse_fullcolor_black_114: -186721638
+      Horse_fullcolor_black_115: 900538614
+      Horse_fullcolor_black_116: 40485403
+      Horse_fullcolor_black_117: -1918411535
+      Horse_fullcolor_black_118: -875235281
+      Horse_fullcolor_black_119: 2092754654
+      Horse_fullcolor_black_12: -2070657916
+      Horse_fullcolor_black_120: 1724595289
+      Horse_fullcolor_black_121: 1026779043
+      Horse_fullcolor_black_122: 406593618
+      Horse_fullcolor_black_123: -920736401
+      Horse_fullcolor_black_124: -1284368905
+      Horse_fullcolor_black_13: -692725864
+      Horse_fullcolor_black_14: 138621213
+      Horse_fullcolor_black_15: -532355296
+      Horse_fullcolor_black_16: 2134148332
+      Horse_fullcolor_black_17: -343004509
+      Horse_fullcolor_black_18: 895815694
+      Horse_fullcolor_black_19: 1288736204
+      Horse_fullcolor_black_2: -599491333
+      Horse_fullcolor_black_20: 1725565378
+      Horse_fullcolor_black_21: 1505887870
+      Horse_fullcolor_black_22: 820822343
+      Horse_fullcolor_black_23: -629687583
+      Horse_fullcolor_black_24: -336319493
+      Horse_fullcolor_black_25: -1637017527
+      Horse_fullcolor_black_26: 118543278
+      Horse_fullcolor_black_27: -1712327441
+      Horse_fullcolor_black_28: 1692176928
+      Horse_fullcolor_black_29: -549959405
+      Horse_fullcolor_black_3: 386177793
+      Horse_fullcolor_black_30: 187580181
+      Horse_fullcolor_black_31: -1349189602
+      Horse_fullcolor_black_32: -1835889941
+      Horse_fullcolor_black_33: -1939323331
+      Horse_fullcolor_black_34: -634325210
+      Horse_fullcolor_black_35: -1820312785
+      Horse_fullcolor_black_36: 1460618420
+      Horse_fullcolor_black_37: 2119795264
+      Horse_fullcolor_black_38: -1320091897
+      Horse_fullcolor_black_39: -1646251452
+      Horse_fullcolor_black_4: 874862052
+      Horse_fullcolor_black_40: -1429860046
+      Horse_fullcolor_black_41: -1361375808
+      Horse_fullcolor_black_42: -852112564
+      Horse_fullcolor_black_43: -120720355
+      Horse_fullcolor_black_44: -1193700165
+      Horse_fullcolor_black_45: -1832559280
+      Horse_fullcolor_black_46: 1915571157
+      Horse_fullcolor_black_47: 2028948202
+      Horse_fullcolor_black_48: -1739191421
+      Horse_fullcolor_black_49: -262364298
+      Horse_fullcolor_black_5: 1536378090
+      Horse_fullcolor_black_50: 1956639639
+      Horse_fullcolor_black_51: -1314061616
+      Horse_fullcolor_black_52: 977812543
+      Horse_fullcolor_black_53: -1153872877
+      Horse_fullcolor_black_54: -1411050255
+      Horse_fullcolor_black_55: -895007255
+      Horse_fullcolor_black_56: -529014097
+      Horse_fullcolor_black_57: -647853663
+      Horse_fullcolor_black_58: 2061272100
+      Horse_fullcolor_black_59: 1709984992
+      Horse_fullcolor_black_6: 939939010
+      Horse_fullcolor_black_60: 2102197212
+      Horse_fullcolor_black_61: 1739793596
+      Horse_fullcolor_black_62: 627345039
+      Horse_fullcolor_black_63: 184058000
+      Horse_fullcolor_black_64: 1796882874
+      Horse_fullcolor_black_65: -1406500817
+      Horse_fullcolor_black_66: 340093324
+      Horse_fullcolor_black_67: -840801958
+      Horse_fullcolor_black_68: -101193254
+      Horse_fullcolor_black_69: -292317444
+      Horse_fullcolor_black_7: 407991874
+      Horse_fullcolor_black_70: 688082370
+      Horse_fullcolor_black_71: -1321171737
+      Horse_fullcolor_black_72: 203950540
+      Horse_fullcolor_black_73: -1777108741
+      Horse_fullcolor_black_74: -177070987
+      Horse_fullcolor_black_75: 578982874
+      Horse_fullcolor_black_76: 1767995734
+      Horse_fullcolor_black_77: 1125453897
+      Horse_fullcolor_black_78: 465403380
+      Horse_fullcolor_black_79: 200706904
+      Horse_fullcolor_black_8: -1552460381
+      Horse_fullcolor_black_80: -735732514
+      Horse_fullcolor_black_81: 1615057058
+      Horse_fullcolor_black_82: -177413931
+      Horse_fullcolor_black_83: -1043978276
+      Horse_fullcolor_black_84: -1157702246
+      Horse_fullcolor_black_85: 102450688
+      Horse_fullcolor_black_86: -828209438
+      Horse_fullcolor_black_87: -1840035650
+      Horse_fullcolor_black_88: 1242160951
+      Horse_fullcolor_black_89: -52313009
+      Horse_fullcolor_black_9: -558196229
+      Horse_fullcolor_black_90: -961673726
+      Horse_fullcolor_black_91: 1617402697
+      Horse_fullcolor_black_92: 2118584183
+      Horse_fullcolor_black_93: 1013651507
+      Horse_fullcolor_black_94: 1569969664
+      Horse_fullcolor_black_95: 312135839
+      Horse_fullcolor_black_96: 1601582162
+      Horse_fullcolor_black_97: 1667642624
+      Horse_fullcolor_black_98: -340857600
+      Horse_fullcolor_black_99: -956504139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
