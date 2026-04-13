@@ -125,6 +125,7 @@ void Update()
             {
                 isGrounded = false;
                 velocity.y = jumpVelocity;
+                SoundManager.Instance.PlayJump();
                 isHoldingJump = true;
                 holdJumpTime = 0;
 
@@ -143,6 +144,7 @@ void Update()
         {
             isGrounded = false;
             velocity.y = jumpVelocity;
+            SoundManager.Instance.PlayJump();
             isHoldingJump = true;
             holdJumpTime = 0;
 
@@ -164,15 +166,18 @@ void Update()
        Vector2 pos = transform.position;
         if (isDead || levelCompleted)
         {
+            SoundManager.Instance.StopRun();
             return;
         }
        if(!debugNoDeath && pos.y < -20)
 {
             isDead = true;
+            SoundManager.Instance.StopRun();
         }
 
         if (!isGrounded)
         {
+            SoundManager.Instance.StopRun();
              if (isHoldingJump)
             {
                 holdJumpTime += Time.fixedDeltaTime;
@@ -205,6 +210,7 @@ void Update()
                         pos.y = groundHeight;
                         velocity.y = 0;
                         isGrounded = true;
+                        SoundManager.Instance.StartRun();
                     }
                     
                     fall = ground.GetComponent<GroundFall>();
@@ -238,6 +244,7 @@ void Update()
 
         if (isGrounded)
         {
+            SoundManager.Instance.StartRun();
             float velocityRatio = velocity.x / maxXVelocity;
             acceleration = maxAcceleration * (1 - velocityRatio);
             maxHoldJumpTime = maxMaxHoldJumpTime * velocityRatio;
@@ -295,6 +302,7 @@ void Update()
 
     void hitObstacle(Obstacle obstacle)
     {
+        SoundManager.Instance.PlayHit();
         Destroy(obstacle.gameObject);
 
         velocity.x *= 0.7f;

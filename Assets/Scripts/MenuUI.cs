@@ -32,12 +32,14 @@ public class MenuUI : MonoBehaviour
 
     private void ShowLevelSelect()
     {
+        SoundManager.Instance.PlayButton();
         levelSelectPanel.SetActive(true);
         playButton.gameObject.SetActive(false);
     }
 
     private void PlayLevel(int level)
     {
+        SoundManager.Instance.PlayButton();
         GameManager.Instance.gameMode = GameManager.GameMode.Level;
         GameManager.Instance.currentLevel = level;
 
@@ -66,12 +68,14 @@ public class MenuUI : MonoBehaviour
 
     private void PlayEndless()
     {
+        SoundManager.Instance.PlayButton();
         GameManager.Instance.gameMode = GameManager.GameMode.Endless;
         SceneManager.LoadScene("Playing");
     }
 
     private void QuitGame()
     {
+         SoundManager.Instance.PlayButton();
         Application.Quit();
     }
 }

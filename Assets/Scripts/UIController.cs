@@ -101,11 +101,13 @@ public class UIController : MonoBehaviour
 
     public void Quit()
     {
+        SoundManager.Instance.PlayButton();
         SceneManager.LoadScene("Menu");   
     }
 
     public void Retry()
     {
+        SoundManager.Instance.PlayButton();
         SceneManager.LoadScene("Playing");
     }
 }
