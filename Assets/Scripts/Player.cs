@@ -311,15 +311,36 @@ void Update()
     }
 
     void CheckObstacleCollision(Obstacle obstacle)
+{
+    if(obstacle.isFake)
     {
-        if(obstacle.isFake)
+        Destroy(obstacle.gameObject);
+        return;
+    }
+
+    // Night Mode Logic
+    if (EnvironmentManager.Instance.currentMode == EnvironmentManager.Mode.Night)
+    {
+        if (obstacle.obstacleType == Obstacle.ObstacleType.SpiritAnimal)
         {
+            SoundManager.Instance.PlayHit();
+            health += obstacle.healAmount;
+            if (health > maxHealth) health = maxHealth;
+
             Destroy(obstacle.gameObject);
             return;
         }
 
-        hitObstacle(obstacle);
+        if (obstacle.isInstantKill)
+        {
+            isDead = true;
+            Destroy(obstacle.gameObject);
+            return;
+        }
     }
+
+    hitObstacle(obstacle);
+}
 
     void UpdateAnimator()
     {
