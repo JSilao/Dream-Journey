@@ -182,7 +182,7 @@ public class Ground : MonoBehaviour
             GameObject monster = Instantiate(dreamMonsterTemplate.gameObject);
 
             float x = Random.Range(left, right);
-            float y = goGround.groundHeight + Random.Range(2f, 5f);
+            float y = goGround.groundHeight;
 
             monster.transform.position = new Vector2(x, y);
 
@@ -203,6 +203,7 @@ public class Ground : MonoBehaviour
 
                 float x = Random.Range(left, right);
                 float y = goGround.groundHeight;
+                
 
                 spirit.transform.position = new Vector2(x, y);
 
@@ -222,8 +223,8 @@ public class Ground : MonoBehaviour
                 o.obstacleType = Obstacle.ObstacleType.SpiritAnimal;
                 o.healAmount = 1;
 
-                o.isFloating = true;
-                o.floatSpeed = Random.Range(2f, 3f);
+                // o.isFloating = true;
+                o.floatSpeed = Random.Range(0.5f, 0.5f);
                 o.floatAmplitude = Random.Range(0.3f, 0.8f);
             }
             

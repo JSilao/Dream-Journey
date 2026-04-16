@@ -6,6 +6,7 @@ public class ScreenFlash : MonoBehaviour
 {
     public Image overlay; 
     public float flashDuration = 0.5f; 
+    public float damageDuration = 0.3f; 
 
     private Coroutine currentFlash;
 
@@ -32,5 +33,33 @@ public class ScreenFlash : MonoBehaviour
         }
 
         overlay.color = new Color(targetColor.r, targetColor.g, targetColor.b, 0f);
+    }
+
+    public void FlashDamage()
+    {
+        if (currentFlash != null)
+            StopCoroutine(currentFlash);
+
+        currentFlash = StartCoroutine(DamageFlash());
+    }
+
+    private IEnumerator DamageFlash()
+    {
+        Color targetColor = new Color(1f, 0f, 0f, 0.2f); 
+
+        overlay.color = targetColor;
+
+        float elapsed = 0f;
+
+        while (elapsed < damageDuration)
+        {
+            float alpha = Mathf.Lerp(targetColor.a, 0f, elapsed / damageDuration);
+            overlay.color = new Color(targetColor.r, targetColor.g, targetColor.b, alpha);
+
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+
+        overlay.color = new Color(1f, 0f, 0f, 0f);
     }
 }

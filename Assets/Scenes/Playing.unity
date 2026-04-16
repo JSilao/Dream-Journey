@@ -501,8 +501,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Health
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 27667b76bfdf08b46a2c5181c4ce460c, type: 2}
-  m_sharedMaterial: {fileID: -1635718475041584010, guid: 27667b76bfdf08b46a2c5181c4ce460c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2590,6 +2590,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   overlay: {fileID: 494058423}
   flashDuration: 0.5
+  damageDuration: 0.3
 --- !u!114 &494058423
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3085,6 +3086,7 @@ MonoBehaviour:
   obstacleLayerMask:
     serializedVersion: 2
     m_Bits: 128
+  screenFlash: {fileID: 0}
 --- !u!212 &543114591
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5576,8 +5578,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Distance
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 27667b76bfdf08b46a2c5181c4ce460c, type: 2}
-  m_sharedMaterial: {fileID: -1635718475041584010, guid: 27667b76bfdf08b46a2c5181c4ce460c, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -6254,6 +6256,9 @@ MonoBehaviour:
   groundRight: 0
   screenRight: 0
   boxTemplate: {fileID: 615602568343489516, guid: 5aa05faef52fc38428561f0d56ee355a, type: 3}
+  airObstacleTemplate: {fileID: 615602568343489516, guid: bcb1bcf2168483f46bea4db3aa4ddcbe, type: 3}
+  dreamMonsterTemplate: {fileID: 615602568343489516, guid: 2376ca4fee0acfe44ad41d486ce10588, type: 3}
+  spiritAnimalTemplate: {fileID: 615602568343489516, guid: 7807a150391adf647b53e501ae2c9e8a, type: 3}
 --- !u!1 &1276810312
 GameObject:
   m_ObjectHideFlags: 0

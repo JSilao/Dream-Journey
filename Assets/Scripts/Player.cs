@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
     [Header("Health System")]
-    public int maxHealth = 3;
+    public int maxHealth = 5;
     public int health = 3;
 
    public float gravity;
@@ -39,6 +39,7 @@ public class Player : MonoBehaviour
    
    GroundFall fall;
    CameraShake cameraShake;
+   public ScreenFlash screenFlash;
     void Start()
     {
         cameraShake = Camera.main.GetComponent<CameraShake>();
@@ -302,45 +303,56 @@ void Update()
 
     void hitObstacle(Obstacle obstacle)
     {
-        SoundManager.Instance.PlayHit();
         Destroy(obstacle.gameObject);
 
         velocity.x *= 0.7f;
-
         TakeDamage(obstacle.damage);
     }
 
     void CheckObstacleCollision(Obstacle obstacle)
-{
-    if(obstacle.isFake)
     {
-        Destroy(obstacle.gameObject);
-        return;
-    }
-
-    // Night Mode Logic
-    if (EnvironmentManager.Instance.currentMode == EnvironmentManager.Mode.Night)
-    {
-        if (obstacle.obstacleType == Obstacle.ObstacleType.SpiritAnimal)
+        if (obstacle.isFake)
         {
-            SoundManager.Instance.PlayHit();
-            health += obstacle.healAmount;
-            if (health > maxHealth) health = maxHealth;
-
             Destroy(obstacle.gameObject);
             return;
         }
 
-        if (obstacle.isInstantKill)
+        // NIGHT MODE LOGIC
+        if (EnvironmentManager.Instance.currentMode == EnvironmentManager.Mode.Night)
         {
-            isDead = true;
-            Destroy(obstacle.gameObject);
-            return;
-        }
-    }
+            switch (obstacle.obstacleType)
+            {
+                case Obstacle.ObstacleType.SpiritAnimal:
+                    SoundManager.Instance.HitSpirit(); 
+                    health += obstacle.healAmount;
+                    if (health > maxHealth) health = maxHealth;
+                    Destroy(obstacle.gameObject);
+                    return;
 
-    hitObstacle(obstacle);
-}
+                case Obstacle.ObstacleType.Air:
+                    SoundManager.Instance.HitAirObstacle(); 
+                    hitObstacle(obstacle);
+                    return;
+
+                case Obstacle.ObstacleType.DreamMonster:
+                    SoundManager.Instance.HitMonster(); 
+
+                    if (obstacle.isInstantKill)
+                    {
+                        isDead = true;
+                        Destroy(obstacle.gameObject);
+                        return;
+                    }
+
+                    hitObstacle(obstacle);
+                    return;
+            }
+        }
+
+        // DEFAULT (GROUND OBSTACLE)
+        SoundManager.Instance.HitObstacle();
+        hitObstacle(obstacle);
+    }
 
     void UpdateAnimator()
     {
@@ -353,6 +365,9 @@ void Update()
     public void TakeDamage(int amount)
     {
         health -= amount;
+        
+        if (screenFlash != null)
+        screenFlash.FlashDamage();
 
         if (health <= 0)
         {

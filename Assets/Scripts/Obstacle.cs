@@ -57,11 +57,11 @@ public class Obstacle : MonoBehaviour
     }
 
     // DREAM MONSTER (NOW FIXED)
-    if (isChasing)
-    {
-        float direction = Mathf.Sign(player.transform.position.y - pos.y);
-        pos.y += direction * 1.5f * Time.deltaTime;
-    }
+    // if (isChasing)
+    // {
+    //     float direction = Mathf.Sign(player.transform.position.y - pos.y);
+    //     pos.y += direction * 1.5f * Time.deltaTime;
+    // }
 
     transform.position = pos;
     }
