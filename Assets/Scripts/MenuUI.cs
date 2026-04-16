@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using Unity.VisualScripting;
 
 public class MenuUI : MonoBehaviour
 {
@@ -21,7 +22,13 @@ public class MenuUI : MonoBehaviour
 
     [Header("Sound Manager")]
     public GameObject SoundSettingsPanel;
-     // Optional: Panel for sound settings (if you want to add it in the future)
+    
+
+     [Header("User")]
+    public GameObject userPanel;
+    public Button userButton;
+    public Button userBackButton;
+
     private void Awake()
     {
         // Main menu
@@ -32,6 +39,10 @@ public class MenuUI : MonoBehaviour
         // Sound settings
         soundSettingsButton.onClick.AddListener(ShowSoundSettings);
         soundSettingsBackBtn.onClick.AddListener(HideSoundSettings);
+
+        // User panel
+        userButton.onClick.AddListener(ShowUserPanel);
+        userBackButton.onClick.AddListener(HideUserPanel);
 
         // Level select buttons
         level1Button.onClick.AddListener(() => PlayLevel(1));
@@ -110,6 +121,20 @@ public class MenuUI : MonoBehaviour
     {
         SoundManager.Instance.PlayButton();
         SoundSettingsPanel.SetActive(false);
+    }
+
+    // =======================
+    // USER PANEL
+    // =======================
+    public void ShowUserPanel()
+    {
+        SoundManager.Instance.PlayButton();
+        userPanel.SetActive(true);
+    }
+    public void HideUserPanel()
+    {
+        SoundManager.Instance.PlayButton();
+        userPanel.SetActive(false);
     }
 
     private void QuitGame()

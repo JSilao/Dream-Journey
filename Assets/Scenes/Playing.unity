@@ -3064,9 +3064,9 @@ MonoBehaviour:
   health: 5
   gravity: -400
   velocity: {x: 0, y: 0}
-  maxXVelocity: 50
-  maxAcceleration: 10
-  acceleration: 10
+  maxXVelocity: 100
+  maxAcceleration: 5
+  acceleration: 1
   distance: 0
   jumpVelocity: 50
   groundHeight: 10

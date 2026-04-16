@@ -43,6 +43,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         cameraShake = Camera.main.GetComponent<CameraShake>();
+        velocity.x = 2f;
     }
     
 
