@@ -6,7 +6,7 @@ public class UserManager : MonoBehaviour
     public static UserManager Instance;
 
     private List<string> users = new List<string>();
-
+    public static System.Action OnUserChanged;
     void Awake()
     {
         if (Instance != null && Instance != this)
@@ -69,20 +69,24 @@ public class UserManager : MonoBehaviour
         }
     }
 
-    public void RenameUser(string oldName, string newName)
+   public void RenameUser(string oldName, string newName)
     {
-        if (!users.Contains(oldName) || users.Contains(newName) || string.IsNullOrEmpty(newName)) return;
+        if (!users.Contains(oldName) || users.Contains(newName) || string.IsNullOrEmpty(newName))
+            return;
 
         int index = users.IndexOf(oldName);
         users[index] = newName;
 
         SaveUsers();
+
+        LeaderboardManager.Instance.RenameUserInScores(oldName, newName);
+
         TransferScores(oldName, newName);
 
         if (GetCurrentUser() == oldName)
-        {
             SetCurrentUser(newName);
-        }
+
+        OnUserChanged?.Invoke();
     }
 
     void TransferScores(string oldName, string newName)
@@ -103,9 +107,10 @@ public class UserManager : MonoBehaviour
     }
 
     public void SetCurrentUser(string username)
-    {
-        PlayerPrefs.SetString("CurrentUser", username);
-    }
+{
+    PlayerPrefs.SetString("CurrentUser", username);
+    OnUserChanged?.Invoke(); 
+}
 
     public string GetCurrentUser()
     {

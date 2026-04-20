@@ -89,4 +89,17 @@ public class LeaderboardManager : MonoBehaviour
             .Take(10)
             .ToList();
     }
+
+    public void RenameUserInScores(string oldName, string newName)
+{
+    for (int i = 0; i < allScores.Count; i++)
+    {
+        if (allScores[i].username == oldName)
+        {
+            allScores[i].username = newName;
+        }
+    }
+
+    SaveScores();
+}
 }

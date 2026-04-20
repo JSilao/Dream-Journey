@@ -25,7 +25,21 @@ public class LeaderboardUI : MonoBehaviour
 
     Refresh();
 }
+    public void ForceRefresh()
+    {
+        Refresh();
+    }
 
+    private void OnEnable()
+    {
+        UserManager.OnUserChanged -= Refresh;
+        UserManager.OnUserChanged += Refresh;
+    }
+
+    private void OnDisable()
+    {
+        UserManager.OnUserChanged -= Refresh;
+    }
     public void Refresh()
     {
         // -------------------------
@@ -52,7 +66,7 @@ public class LeaderboardUI : MonoBehaviour
         // -------------------------
         // Get data
         // -------------------------
-        string currentUser = UserManager.Instance.GetCurrentUser();
+        string currentUser = PlayerPrefs.GetString("CurrentUser", "Guest");
 
         List<ScoreEntry> global = LeaderboardManager.Instance.GetGlobalTop20();
     List<ScoreEntry> user = LeaderboardManager.Instance.GetUserTop20(currentUser);

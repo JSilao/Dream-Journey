@@ -44,7 +44,27 @@ public class Player : MonoBehaviour
     {
         cameraShake = Camera.main.GetComponent<CameraShake>();
         velocity.x = 2f;
+
+        ApplySkin(); 
     }
+
+    void ApplySkin()
+{
+    if (SkinManager.Instance == null) return;
+
+    // Apply animator
+    if (animator != null)
+    {
+        animator.runtimeAnimatorController = SkinManager.Instance.GetAnimator();
+    }
+
+    // Apply sprite
+    SpriteRenderer sr = GetComponent<SpriteRenderer>();
+    if (sr != null)
+    {
+        sr.sprite = SkinManager.Instance.GetSprite();
+    }
+}
 //    void Update()
 // {
 //     Vector2 pos = transform.position;

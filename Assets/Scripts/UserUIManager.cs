@@ -52,30 +52,52 @@ public class UserUIManager : MonoBehaviour
     // ======================
     // USER LIST
     // ======================
-    public void RefreshUserList()
+
+    public float entryHeight = 30f;
+    public float topPadding = 20f;
+   public void RefreshUserList()
     {
         foreach (Transform child in userListContainer)
             Destroy(child.gameObject);
 
         List<string> users = UserManager.Instance.GetUsers();
 
-        foreach (string user in users)
+        for (int i = 0; i < users.Count; i++)
         {
             GameObject btn = Instantiate(userButtonPrefab, userListContainer);
 
+            RectTransform rt = btn.GetComponent<RectTransform>();
+
+            rt.anchoredPosition = new Vector2(
+                0,
+                -topPadding - (i * entryHeight)
+            );
+
             UserButton ub = btn.GetComponent<UserButton>();
-            ub.username = user;
+            ub.username = users[i];
             ub.manager = this;
+            ub.SetText(users[i]);
 
-            ub.SetText(user);
-
-            // Highlight current user
-            if (user == UserManager.Instance.GetCurrentUser())
+            if (users[i] == UserManager.Instance.GetCurrentUser())
             {
                 ub.Highlight(true);
             }
         }
+
+        SetContentHeight(users.Count);
     }
+
+void SetContentHeight(int count)
+{
+    RectTransform rt = userListContainer.GetComponent<RectTransform>();
+
+    if (rt == null) return;
+
+    rt.sizeDelta = new Vector2(
+        rt.sizeDelta.x,
+        count * entryHeight
+    );
+}
 
     public void SelectUser(string user)
     {
