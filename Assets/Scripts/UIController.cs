@@ -141,6 +141,7 @@ public class UIController : MonoBehaviour
                 "\nDistance: " + distance + " m" +
                 "\nYour Best (Endless): " + userHighScore + " m" +
                 "\nGlobal Best (Endless): " + globalHighScore + " m";
+
         }
         else
         {
@@ -153,6 +154,12 @@ public class UIController : MonoBehaviour
         }
 
         player.velocity = Vector2.zero;
+
+        string user = GetUser();
+        if(endless)
+    {
+        LeaderboardManager.Instance.AddScore(user, distance);}
+
     }
 
     // =========================

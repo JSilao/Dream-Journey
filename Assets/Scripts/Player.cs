@@ -40,13 +40,11 @@ public class Player : MonoBehaviour
    GroundFall fall;
    CameraShake cameraShake;
    public ScreenFlash screenFlash;
-    void Start()
+   void Start()
     {
         cameraShake = Camera.main.GetComponent<CameraShake>();
         velocity.x = 2f;
     }
-    
-
 //    void Update()
 // {
 //     Vector2 pos = transform.position;
