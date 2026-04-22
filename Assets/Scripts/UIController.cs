@@ -15,6 +15,9 @@ public class UIController : MonoBehaviour
     [Header("Buttons")]
     public Button quitButton;
     public Button retryButton;
+    public Button nextLevelButton; 
+    [Header("Next Level Lock")]
+public GameObject nextLevelLockIcon;
 
     void Awake()
     {
@@ -29,6 +32,12 @@ public class UIController : MonoBehaviour
 
         if (retryButton != null)
             retryButton.onClick.AddListener(Retry);
+
+        if (nextLevelButton != null)
+    {
+        nextLevelButton.onClick.AddListener(NextLevel);
+        nextLevelButton.gameObject.SetActive(false); // hidden by default
+    }
     }
 
     void Update()
@@ -106,22 +115,66 @@ public class UIController : MonoBehaviour
 
         results.SetActive(true);
 
-        bool endless = IsEndlessMode(out int level);
+        // =========================
+        // LEVEL STATE
+        // =========================
+        bool endless = IsEndlessMode(out int currentLevel);
 
-        string userKey = GetUserKey(level, endless);
-        string globalKey = GetGlobalKey(level, endless);
+        int completedLevel = GameManager.Instance.currentLevel;
+        int nextLevel = completedLevel + 1;
+
+        // =========================
+        // NEXT LEVEL BUTTON
+        // =========================
+        if (nextLevelButton != null)
+        {
+            bool hasNextLevel = !endless && completedLevel < 3;
+
+            nextLevelButton.gameObject.SetActive(hasNextLevel);
+
+            if (hasNextLevel)
+            {
+                bool canProceed = true;
+
+                if (LevelProgressManager.Instance != null)
+                {
+                    int unlockedLevel = LevelProgressManager.Instance.GetUnlockedLevel();
+                    canProceed = nextLevel <= unlockedLevel;
+                }
+
+                nextLevelButton.interactable = canProceed;
+
+                Image img = nextLevelButton.GetComponent<Image>();
+                if (img == null)
+                    img = nextLevelButton.GetComponentInChildren<Image>();
+
+                if (img != null)
+                    img.color = canProceed ? Color.white : Color.gray;
+
+                TextMeshProUGUI txt = nextLevelButton.GetComponentInChildren<TextMeshProUGUI>();
+                if (txt != null)
+                    txt.color = canProceed ? Color.white : Color.gray;
+
+                if (nextLevelLockIcon != null)
+                    nextLevelLockIcon.SetActive(!canProceed);
+            }
+        }
+
+        // =========================
+        // SCORES
+        // =========================
+        string userKey = GetUserKey(completedLevel, endless);
+        string globalKey = GetGlobalKey(completedLevel, endless);
 
         int userHighScore = PlayerPrefs.GetInt(userKey, 0);
         int globalHighScore = PlayerPrefs.GetInt(globalKey, 0);
 
-        // Update USER score
         if (distance > userHighScore)
         {
             userHighScore = distance;
             PlayerPrefs.SetInt(userKey, userHighScore);
         }
 
-        // Update GLOBAL score
         if (distance > globalHighScore)
         {
             globalHighScore = distance;
@@ -131,9 +184,8 @@ public class UIController : MonoBehaviour
         PlayerPrefs.Save();
 
         // =========================
-        // UI OUTPUT (STRICT MODE SEPARATION)
+        // UI OUTPUT
         // =========================
-
         if (endless)
         {
             finalDistanceText.text =
@@ -141,25 +193,23 @@ public class UIController : MonoBehaviour
                 "\nDistance: " + distance + " m" +
                 "\nYour Best (Endless): " + userHighScore + " m" +
                 "\nGlobal Best (Endless): " + globalHighScore + " m";
-
         }
         else
         {
             finalDistanceText.text =
                 message +
-                "\nLevel: " + level +
+                "\nLevel: " + completedLevel +
                 "\nDistance: " + distance + " m" +
-                "\nYour Best (Level " + level + "): " + userHighScore + " m" +
-                "\nGlobal Best (Level " + level + "): " + globalHighScore + " m";
+                "\nYour Best (Level " + completedLevel + "): " + userHighScore + " m" +
+                "\nGlobal Best (Level " + completedLevel + "): " + globalHighScore + " m";
         }
 
         player.velocity = Vector2.zero;
 
-        string user = GetUser();
-        if(endless)
-    {
-        LeaderboardManager.Instance.AddScore(user, distance);}
-
+        if (endless && LeaderboardManager.Instance != null)
+        {
+            LeaderboardManager.Instance.AddScore(GetUser(), distance);
+        }
     }
 
     // =========================
@@ -173,6 +223,51 @@ public class UIController : MonoBehaviour
         SoundManager.Instance.PlayMenuBGM();
         SceneManager.LoadScene("Menu");
     }
+     public void NextLevel()
+    {
+        SoundManager.Instance.PlayButton();
+
+        if (GameManager.Instance == null) return;
+
+        int nextLevel = GameManager.Instance.currentLevel + 1;
+
+        if (nextLevel > 3) return;
+
+        if (LevelProgressManager.Instance != null)
+        {
+            int unlockedLevel = LevelProgressManager.Instance.GetUnlockedLevel();
+
+            if (nextLevel > unlockedLevel)
+            {
+                Debug.Log("Next level is locked!");
+                return;
+            }
+        }
+
+        GameManager.Instance.currentLevel = nextLevel;
+
+        switch (nextLevel)
+        {
+            case 1:
+                GameManager.Instance.dayDistance = 500;
+                GameManager.Instance.afternoonDistance = 0;
+                GameManager.Instance.nightDistance = 0;
+                break;
+            case 2:
+                GameManager.Instance.dayDistance = 500;
+                GameManager.Instance.afternoonDistance = 500;
+                GameManager.Instance.nightDistance = 0;
+                break;
+            case 3:
+                GameManager.Instance.dayDistance = 500;
+                GameManager.Instance.afternoonDistance = 500;
+                GameManager.Instance.nightDistance = 500;
+                break;
+        }
+
+        SceneManager.LoadScene("Playing");
+    }
+
 
     public void Retry()
     {
