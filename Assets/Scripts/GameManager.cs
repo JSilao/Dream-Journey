@@ -65,13 +65,20 @@ public class GameManager : MonoBehaviour
       float totalDistance = dayDistance + afternoonDistance + nightDistance;
     // Level complete
     if(distanceTraveled >= totalDistance && !player.levelCompleted)
+{
+    player.levelCompleted = true;
+    Debug.Log("Level Complete!");
+
+    if (LevelProgressManager.Instance != null)
     {
-        player.levelCompleted = true;
-        Debug.Log("Level Complete!");
-        currentLevel++;
-        distanceTraveled = 0;
-        if(player != null) player.velocity = Vector2.zero;
+        LevelProgressManager.Instance.UnlockNextLevel(currentLevel);
     }
+
+    currentLevel++;
+    distanceTraveled = 0;
+
+    if(player != null) player.velocity = Vector2.zero;
+}
 }
 
     void HandleEndlessMode()

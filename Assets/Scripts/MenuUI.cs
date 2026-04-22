@@ -21,6 +21,14 @@ public class MenuUI : MonoBehaviour
     public Button level2Button;
     public Button level3Button;
     public Button endlessButton;
+
+    [Header("Level Lock Visuals")]
+    public GameObject level2LockIcon;
+    public GameObject level3LockIcon;
+
+    [Header("Locked Color Settings")]
+    public Color lockedColor = Color.gray;
+    public Color unlockedColor = Color.white;
     
 
     [Header("Sound Manager")]
@@ -84,11 +92,25 @@ public class MenuUI : MonoBehaviour
         skinSelectorBackButton.onClick.AddListener(HideSkinSelector);
 
         levelSelectPanel.SetActive(false);
+        UpdateLevelButtons();
     }
+
+    void OnEnable()
+    {
+        UserManager.OnUserChanged += UpdateLevelButtons;
+        UpdateLevelButtons(); // IMPORTANT: refresh immediately
+    }
+
+    void OnDisable()
+    {
+        UserManager.OnUserChanged -= UpdateLevelButtons;
+    }
+
     //LEVEL PANEL SELECT
     private void ShowLevelSelect()
     {
         SoundManager.Instance.PlayButton();
+        UpdateLevelButtons();
         levelSelectPanel.SetActive(true);
         playButton.gameObject.SetActive(false);
     }
@@ -105,13 +127,20 @@ public class MenuUI : MonoBehaviour
     // =======================
     private void PlayLevel(int level)
     {
+        if (LevelProgressManager.Instance != null &&
+            !LevelProgressManager.Instance.IsLevelUnlocked(level))
+        {
+            Debug.Log("Level Locked!");
+            return;
+        }
+
         SoundManager.Instance.PlayButton();
         SoundManager.Instance.StopMenuBGM();
         SoundManager.Instance.PlayBGM();
+
         GameManager.Instance.gameMode = GameManager.GameMode.Level;
         GameManager.Instance.currentLevel = level;
 
-        // Set level distances
         switch(level)
         {
             case 1:
@@ -133,7 +162,42 @@ public class MenuUI : MonoBehaviour
 
         SceneManager.LoadScene("Playing");
     }
-    
+    void UpdateLevelButtons()
+    {
+        if (LevelProgressManager.Instance == null) return;
+
+        // Level 1 always unlocked
+        SetLevelVisual(level1Button, true, null);
+
+        // Level 2
+        bool level2Unlocked = LevelProgressManager.Instance.IsLevelUnlocked(2);
+        SetLevelVisual(level2Button, level2Unlocked, level2LockIcon);
+
+        // Level 3
+        bool level3Unlocked = LevelProgressManager.Instance.IsLevelUnlocked(3);
+        SetLevelVisual(level3Button, level3Unlocked, level3LockIcon);
+    }
+
+    void SetLevelVisual(Button button, bool unlocked, GameObject lockIcon)
+    {
+        if (button == null) return;
+
+        // Enable / disable interaction
+        button.interactable = unlocked;
+
+        // Change button color (grayed if locked)
+        Image img = button.GetComponent<Image>();
+        if (img != null)
+        {
+            img.color = unlocked ? unlockedColor : lockedColor;
+        }
+
+        // Toggle padlock icon
+        if (lockIcon != null)
+        {
+            lockIcon.SetActive(!unlocked);
+        }
+    }
 
     private void PlayEndless()
     {
