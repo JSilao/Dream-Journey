@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: 5c0d710099ec17e42afdd65f0df4ad42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6971220425135808961
+    second: Horse_fullcolor_white_jump_0
+  - first:
+      213: -3927125018279521603
+    second: Horse_fullcolor_white_jump_1
+  - first:
+      213: -4281948946635463474
+    second: Horse_fullcolor_white_jump_2
+  - first:
+      213: 8673389579394516359
+    second: Horse_fullcolor_white_jump_3
+  - first:
+      213: 2612852473496334963
+    second: Horse_fullcolor_white_jump_4
+  - first:
+      213: 1093063091610790854
+    second: Horse_fullcolor_white_jump_5
+  - first:
+      213: -8851446798709916754
+    second: Horse_fullcolor_white_jump_6
+  - first:
+      213: 8959608845739907853
+    second: Horse_fullcolor_white_jump_7
+  - first:
+      213: 804459345935642313
+    second: Horse_fullcolor_white_jump_8
+  - first:
+      213: 3298704990640865427
+    second: Horse_fullcolor_white_jump_9
+  - first:
+      213: -4033421477378109045
+    second: Horse_fullcolor_white_jump_10
+  - first:
+      213: -815482407332011023
+    second: Horse_fullcolor_white_jump_11
+  - first:
+      213: -77654631807096066
+    second: Horse_fullcolor_white_jump_12
+  - first:
+      213: 5238123960659266052
+    second: Horse_fullcolor_white_jump_13
+  - first:
+      213: -8437427772828430279
+    second: Horse_fullcolor_white_jump_14
+  - first:
+      213: 8609795881838894010
+    second: Horse_fullcolor_white_jump_15
+  - first:
+      213: -351789209683921745
+    second: Horse_fullcolor_white_jump_16
+  - first:
+      213: 6128856958204659015
+    second: Horse_fullcolor_white_jump_17
+  - first:
+      213: -2686794029987638563
+    second: Horse_fullcolor_white_jump_18
+  - first:
+      213: -1125375253427304761
+    second: Horse_fullcolor_white_jump_19
+  - first:
+      213: 1884960335853844323
+    second: Horse_fullcolor_white_jump_20
+  - first:
+      213: -6443433933620435160
+    second: Horse_fullcolor_white_jump_21
+  - first:
+      213: -1733553755594683489
+    second: Horse_fullcolor_white_jump_22
+  - first:
+      213: 1585366899250957398
+    second: Horse_fullcolor_white_jump_23
+  - first:
+      213: -741270250105827601
+    second: Horse_fullcolor_white_jump_24
+  - first:
+      213: 5454595328738466324
+    second: Horse_fullcolor_white_jump_25
+  - first:
+      213: 4006157094106638900
+    second: Horse_fullcolor_white_jump_26
+  - first:
+      213: -4950204239590059754
+    second: Horse_fullcolor_white_jump_27
+  - first:
+      213: -8852468699792295539
+    second: Horse_fullcolor_white_jump_28
+  - first:
+      213: -4891512814031609828
+    second: Horse_fullcolor_white_jump_29
+  - first:
+      213: 3949188934170879835
+    second: Horse_fullcolor_white_jump_30
+  - first:
+      213: -9083270201686303995
+    second: Horse_fullcolor_white_jump_31
+  - first:
+      213: -5691570211320967997
+    second: Horse_fullcolor_white_jump_32
+  - first:
+      213: 5006156861263953551
+    second: Horse_fullcolor_white_jump_33
+  - first:
+      213: 383714167825302178
+    second: Horse_fullcolor_white_jump_34
+  - first:
+      213: -8406155284205486910
+    second: Horse_fullcolor_white_jump_35
+  - first:
+      213: 8493981406257314557
+    second: Horse_fullcolor_white_jump_36
+  - first:
+      213: 4372194847573098523
+    second: Horse_fullcolor_white_jump_37
+  - first:
+      213: 5979603610890899289
+    second: Horse_fullcolor_white_jump_38
+  - first:
+      213: 2759264716104731266
+    second: Horse_fullcolor_white_jump_39
+  - first:
+      213: 6015947547016506257
+    second: Horse_fullcolor_white_jump_40
+  - first:
+      213: -5981822467846754596
+    second: Horse_fullcolor_white_jump_41
+  - first:
+      213: -6758104093434924605
+    second: Horse_fullcolor_white_jump_42
+  - first:
+      213: -3350875388516394220
+    second: Horse_fullcolor_white_jump_43
+  - first:
+      213: -3199822230130815282
+    second: Horse_fullcolor_white_jump_44
+  - first:
+      213: -3745992885330063689
+    second: Horse_fullcolor_white_jump_45
+  - first:
+      213: 6561975363296341324
+    second: Horse_fullcolor_white_jump_46
+  - first:
+      213: 1479247746688806078
+    second: Horse_fullcolor_white_jump_47
+  - first:
+      213: 4212685305447639411
+    second: Horse_fullcolor_white_jump_48
+  - first:
+      213: 7783023108705233985
+    second: Horse_fullcolor_white_jump_49
+  - first:
+      213: -1082087655401037521
+    second: Horse_fullcolor_white_jump_50
+  - first:
+      213: -1560401110185659844
+    second: Horse_fullcolor_white_jump_51
+  - first:
+      213: 7866905174687242523
+    second: Horse_fullcolor_white_jump_52
+  - first:
+      213: 7863682056667257166
+    second: Horse_fullcolor_white_jump_53
+  - first:
+      213: 3793313885546152431
+    second: Horse_fullcolor_white_jump_54
+  - first:
+      213: 8856051306317797489
+    second: Horse_fullcolor_white_jump_55
+  - first:
+      213: -576372551575891201
+    second: Horse_fullcolor_white_jump_56
+  - first:
+      213: 4142619067931027941
+    second: Horse_fullcolor_white_jump_57
+  - first:
+      213: -3227770161852741623
+    second: Horse_fullcolor_white_jump_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e15dc55ff314f90800000000000000
+      internalID: -6971220425135808961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 245
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db256e84a9c0089c0800000000000000
+      internalID: -3927125018279521603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 245
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec46f69ae167394c0800000000000000
+      internalID: -4281948946635463474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 245
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785826e6ed11e5870800000000000000
+      internalID: 8673389579394516359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 245
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ff3d2b77b24420800000000000000
+      internalID: 2612852473496334963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 245
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb2d8c27175b2f00800000000000000
+      internalID: 1093063091610790854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 245
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab70a69808592580800000000000000
+      internalID: -8851446798709916754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 251
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b56c076cce65c70800000000000000
+      internalID: 8959608845739907853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 262
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceacbe43830a2b00800000000000000
+      internalID: 804459345935642313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 257
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39005f136ba57cd20800000000000000
+      internalID: 3298704990640865427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 245
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81527b49886608c0800000000000000
+      internalID: -4033421477378109045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 245
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f325663213dea4f0800000000000000
+      internalID: -815482407332011023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_12
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 245
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa69f7168d1ceef0800000000000000
+      internalID: -77654631807096066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 245
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ace8c4dfd81b840800000000000000
+      internalID: 5238123960659266052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_14
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 245
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930db8ed42c38ea80800000000000000
+      internalID: -8437427772828430279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 245
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbd0a5ecb32c7770800000000000000
+      internalID: 8609795881838894010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 163
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa479f0e3913e1bf0800000000000000
+      internalID: -351789209683921745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 163
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74548f07ee21e0550800000000000000
+      internalID: 6128856958204659015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_18
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 163
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd252f1a01796bad0800000000000000
+      internalID: -2686794029987638563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 163
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c643746b2dd160f0800000000000000
+      internalID: -1125375253427304761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_20
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 163
+        width: 71
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367f4424079b82a10800000000000000
+      internalID: 1884960335853844323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 163
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8272bd4e9f25496a0800000000000000
+      internalID: -6443433933620435160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 163
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0cb64b0e21f7e0800000000000000
+      internalID: -1733553755594683489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 169
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c04849bca500610800000000000000
+      internalID: 1585366899250957398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_24
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 180
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee80eb82aa76b5f0800000000000000
+      internalID: -741270250105827601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_25
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 175
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a16f24d8d92bb40800000000000000
+      internalID: 5454595328738466324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_26
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 163
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a23acc6aab89730800000000000000
+      internalID: 4006157094106638900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_27
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 163
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6111a9da8775d4bb0800000000000000
+      internalID: -4950204239590059754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_28
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 163
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89bd93be96b52580800000000000000
+      internalID: -8852468699792295539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_29
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 163
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ef51130bdd1cb0800000000000000
+      internalID: -4891512814031609828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_30
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 163
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a82479665ec630800000000000000
+      internalID: 3949188934170879835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_31
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 163
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bd89570edb1f180800000000000000
+      internalID: -9083270201686303995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 81
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccc40c4c0b7301b0800000000000000
+      internalID: -5691570211320967997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 20
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb58d3421797540800000000000000
+      internalID: 5006156861263953551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 84
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2038ca00a335500800000000000000
+      internalID: 383714167825302178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 83
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccb8268e46575b80800000000000000
+      internalID: -8406155284205486910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 94
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa7db0061fa0e570800000000000000
+      internalID: 8493981406257314557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_37
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 95
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10436a8c082dac30800000000000000
+      internalID: 4372194847573098523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 104
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f8bc48dc1dbf250800000000000000
+      internalID: 5979603610890899289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 108
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a01bcd3a0ea4620800000000000000
+      internalID: 2759264716104731266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_40
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 99
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2d4f8b60fc7350800000000000000
+      internalID: 6015947547016506257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_41
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 88
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2b86982c4cfca0800000000000000
+      internalID: -5981822467846754596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_42
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 85
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1b2bb02246632a0800000000000000
+      internalID: -6758104093434924605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_43
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 83
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b91ec769c4f71d0800000000000000
+      internalID: -3350875388516394220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_44
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 83
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece87a492a2f793d0800000000000000
+      internalID: -3199822230130815282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_45
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec2c2615f830cc0800000000000000
+      internalID: -3745992885330063689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_46
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4da42a73d1d01b50800000000000000
+      internalID: 6561975363296341324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_47
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcee2cfcf7578410800000000000000
+      internalID: 1479247746688806078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e6bd27f6767a30800000000000000
+      internalID: 4212685305447639411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_49
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 3
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c2809f74ad20c60800000000000000
+      internalID: 7783023108705233985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_50
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1
+        width: 20
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216cf3b207abf0f0800000000000000
+      internalID: -1082087655401037521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_51
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 6
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3232482577585ae0800000000000000
+      internalID: -1560401110185659844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_52
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 12
+        width: 20
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195ae2639cdc2d60800000000000000
+      internalID: 7866905174687242523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 21
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49d34eba29612d60800000000000000
+      internalID: 7863682056667257166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_54
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 16
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1098d81ee84a430800000000000000
+      internalID: 3793313885546152431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_55
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 7
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178d4b1edb307ea70800000000000000
+      internalID: 8856051306317797489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_56
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff29805d7305008f0800000000000000
+      internalID: -576372551575891201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_57
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9e9cff71a8d7930800000000000000
+      internalID: 4142619067931027941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse_fullcolor_white_jump_58
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 0
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9088926a328a433d0800000000000000
+      internalID: -3227770161852741623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

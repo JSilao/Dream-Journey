@@ -169,12 +169,15 @@ public class UIController : MonoBehaviour
     public void Quit()
     {
         SoundManager.Instance.PlayButton();
+        SoundManager.Instance.StopBGM();
+        SoundManager.Instance.PlayMenuBGM();
         SceneManager.LoadScene("Menu");
     }
 
     public void Retry()
     {
         SoundManager.Instance.PlayButton();
+        SoundManager.Instance.repeatBGM();
         SceneManager.LoadScene("Playing");
     }
 }

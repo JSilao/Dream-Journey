@@ -11,10 +11,10 @@ public class SoundManager : MonoBehaviour
     public AudioSource loopSource;    // looping sounds (running)
 
     [Header("Volume Settings")]
-
     public Slider bgmSlider;
     public Slider sfxSlider;
     public Slider loopSlider;
+
     [Range(0f, 1f)] public float bgmVolume = 0.5f;
     [Range(0f, 1f)] public float sfxVolume = 1f;
     [Range(0f, 1f)] public float loopVolume = 1f;
@@ -34,10 +34,10 @@ public class SoundManager : MonoBehaviour
 
     [Header("Background Music")]
     public AudioClip bgmClip;
+    public AudioClip menuBGMClip;
 
     void Awake()
     {
-        // Singleton
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
@@ -50,14 +50,14 @@ public class SoundManager : MonoBehaviour
 
     void Start()
     {
-        PlayBGM();
         LoadVolume();
         ApplyVolume();
         InitializeSliders();
+        PlayMenuBGM();
     }
 
     // =======================
-    // VOLUME CONTROL
+    // SLIDER SETUP
     // =======================
     void InitializeSliders()
     {
@@ -65,6 +65,7 @@ public class SoundManager : MonoBehaviour
         {
             bgmSlider.minValue = 0f;
             bgmSlider.maxValue = 1f;
+            bgmSlider.onValueChanged.RemoveAllListeners();
             bgmSlider.value = bgmVolume;
             bgmSlider.onValueChanged.AddListener(SetBGMVolume);
         }
@@ -73,6 +74,7 @@ public class SoundManager : MonoBehaviour
         {
             sfxSlider.minValue = 0f;
             sfxSlider.maxValue = 1f;
+            sfxSlider.onValueChanged.RemoveAllListeners();
             sfxSlider.value = sfxVolume;
             sfxSlider.onValueChanged.AddListener(SetSFXVolume);
         }
@@ -81,46 +83,48 @@ public class SoundManager : MonoBehaviour
         {
             loopSlider.minValue = 0f;
             loopSlider.maxValue = 1f;
+            loopSlider.onValueChanged.RemoveAllListeners();
             loopSlider.value = loopVolume;
             loopSlider.onValueChanged.AddListener(SetLoopVolume);
         }
     }
 
-        void ApplyVolume()
+    void ApplyVolume()
     {
-        bgmSource.volume = bgmVolume;
-        sfxSource.volume = sfxVolume;
-        loopSource.volume = loopVolume;
+        if (bgmSource != null)
+            bgmSource.volume = bgmVolume;
+
+        if (loopSource != null)
+            loopSource.volume = loopVolume;
     }
 
+    // =======================
+    // VOLUME CONTROL
+    // =======================
     public void SetBGMVolume(float value)
     {
         bgmVolume = value;
-        bgmSource.volume = value;
+
+        if (bgmSource != null)
+            bgmSource.volume = value;
+
         PlayerPrefs.SetFloat("BGMVolume", value);
     }
 
     public void SetSFXVolume(float value)
     {
         sfxVolume = value;
-        sfxSource.volume = value;
         PlayerPrefs.SetFloat("SFXVolume", value);
     }
 
     public void SetLoopVolume(float value)
     {
         loopVolume = value;
-        loopSource.volume = value;
-        PlayerPrefs.SetFloat("LoopVolume", value);
-    }
-    public void PlayBGM()
-    {
-        if (bgmSource.clip == bgmClip && bgmSource.isPlaying)
-            return;
 
-        bgmSource.clip = bgmClip;
-        bgmSource.loop = true;
-        bgmSource.Play();
+        if (loopSource != null)
+            loopSource.volume = value;
+
+        PlayerPrefs.SetFloat("LoopVolume", value);
     }
 
     void LoadVolume()
@@ -131,16 +135,49 @@ public class SoundManager : MonoBehaviour
     }
 
     // =======================
-    // 🎵 BACKGROUND MUSIC
+    // BACKGROUND MUSIC
     // =======================
+    public void PlayMenuBGM()
+    {
+        if (bgmSource.clip == menuBGMClip && bgmSource.isPlaying)
+            return;
+
+        bgmSource.clip = menuBGMClip;
+        bgmSource.loop = true;
+        bgmSource.Play();
+    }
+
+    public void StopMenuBGM()
+    {
+        bgmSource.Stop();
+    }
+
+    public void PlayBGM()
+    {
+        if (bgmSource.clip == bgmClip && bgmSource.isPlaying)
+            return;
+
+        bgmSource.clip = bgmClip;
+        bgmSource.loop = true;
+        bgmSource.Play();
+    }
 
     public void StopBGM()
     {
         bgmSource.Stop();
     }
 
+    public void repeatBGM()
+    {
+        if (bgmSource.clip == bgmClip)
+        {
+            bgmSource.Stop();
+            bgmSource.Play();
+        }
+    }
+
     // =======================
-    // 🏃 RUN LOOP (separate source)
+    // RUN LOOP
     // =======================
     public void StartRun()
     {
@@ -159,7 +196,7 @@ public class SoundManager : MonoBehaviour
     }
 
     // =======================
-    // 🔊 PLAYER ACTIONS
+    // PLAYER SFX
     // =======================
     public void PlayJump()
     {
@@ -167,30 +204,15 @@ public class SoundManager : MonoBehaviour
     }
 
     // =======================
-    // 💥 HIT EVENTS
+    // HIT EVENTS
     // =======================
-    public void HitObstacle()
-    {
-        PlaySFX(hitObstacleClip);
-    }
-
-    public void HitSpirit()
-    {
-        PlaySFX(hitSpiritClip);
-    }
-
-    public void HitAirObstacle()
-    {
-        PlaySFX(hitAirObstacleClip);
-    }
-
-    public void HitMonster()
-    {
-        PlaySFX(hitMonsterClip);
-    }
+    public void HitObstacle() => PlaySFX(hitObstacleClip);
+    public void HitSpirit() => PlaySFX(hitSpiritClip);
+    public void HitAirObstacle() => PlaySFX(hitAirObstacleClip);
+    public void HitMonster() => PlaySFX(hitMonsterClip);
 
     // =======================
-    // 🖱 UI
+    // UI
     // =======================
     public void PlayButton()
     {
@@ -198,15 +220,17 @@ public class SoundManager : MonoBehaviour
     }
 
     // =======================
-    // 🔁 CORE SFX METHOD
+    // CORE SFX SYSTEM (FIXED)
     // =======================
     void PlaySFX(AudioClip clip)
     {
         if (clip == null) return;
 
-        // small variation = more natural feel
         sfxSource.pitch = Random.Range(0.95f, 1.05f);
-        sfxSource.PlayOneShot(clip);
+
+        // FIX: volume now properly applied
+        sfxSource.PlayOneShot(clip, sfxVolume);
+
         sfxSource.pitch = 1f;
     }
 }

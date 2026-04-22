@@ -106,6 +106,8 @@ public class MenuUI : MonoBehaviour
     private void PlayLevel(int level)
     {
         SoundManager.Instance.PlayButton();
+        SoundManager.Instance.StopMenuBGM();
+        SoundManager.Instance.PlayBGM();
         GameManager.Instance.gameMode = GameManager.GameMode.Level;
         GameManager.Instance.currentLevel = level;
 
@@ -131,10 +133,13 @@ public class MenuUI : MonoBehaviour
 
         SceneManager.LoadScene("Playing");
     }
+    
 
     private void PlayEndless()
     {
         SoundManager.Instance.PlayButton();
+        SoundManager.Instance.StopMenuBGM();
+        SoundManager.Instance.PlayBGM();
         GameManager.Instance.gameMode = GameManager.GameMode.Endless;
         SceneManager.LoadScene("Playing");
     }
